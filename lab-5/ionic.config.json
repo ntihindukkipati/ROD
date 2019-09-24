@@ -1,0 +1,8 @@
+{
+  "name": "ionic-local-notif",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "type": "ionic-angular"
+}
